@@ -21,7 +21,7 @@ Circuit Connections
 1. Arduino Uno:
 Connect the lock to pin 12.
 Connect the LED to pin A0.
-Connect the Bluetooth module to pins 2 (RX) and 3 (TX).
+Connect the Bluetooth module to pins 0 (RX) and 1 (TX).
 Keypad connections to pins 4-11.
 
 2. Python Script:
